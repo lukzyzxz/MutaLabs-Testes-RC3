@@ -1,0 +1,6 @@
+dodge_rc3 status=0
+bosses_rc3 status=0
+campaign_rc2 status=0
+regression_rc2 status=0
+miniboss_rc2 status=0
+traversal_rc2 status=0

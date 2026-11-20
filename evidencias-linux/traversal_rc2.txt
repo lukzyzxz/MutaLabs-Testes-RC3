@@ -1,0 +1,24 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Divisoria 7940 atravessavel sentido 1
+PASS Divisoria 7940 atravessavel sentido -1
+PASS Salto 600 -> 990
+PASS Salto 990 -> 600
+PASS Salto 3030 -> 3420
+PASS Salto 3420 -> 3030
+PASS Salto 4160 -> 4380
+PASS Salto 4380 -> 4160
+PASS Passagem sob movel 2717 sentido 1
+PASS Passagem sob movel 2815 sentido -1
+PASS Passagem sob movel 4246 sentido 1
+PASS Passagem sob movel 4163 sentido -1
+PASS Passagem sob movel 6010 sentido 1
+PASS Passagem sob movel 6010 sentido -1
+PASS Passagem sob movel 7569 sentido 1
+PASS Passagem sob movel 7611 sentido -1
+PASS Subida por baixo e pouso na passarela
+PASS Salto apos transporte na plataforma movel 2745
+PASS Salto apos transporte na plataforma movel 4241
+PASS Salto apos transporte na plataforma movel 6010
+PASS Salto apos transporte na plataforma movel 7614
+TRAVERSAL: 21 checks / 0 failures

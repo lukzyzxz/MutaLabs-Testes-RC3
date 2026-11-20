@@ -1,0 +1,7 @@
+campaign_rc2: 104/104 PASS | saída 0 | OK
+bosses_rc3: 78/78 PASS | saída 0 | OK
+regression_rc2: 37/37 PASS | saída 0 | OK
+miniboss_rc2: 21/21 PASS | saída 0 | OK
+traversal_rc2: 21/21 PASS | saída 0 | OK
+dodge_rc3: 7/7 PASS | saída 0 | OK
+Total de PASS: 268

@@ -1,0 +1,81 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Vida ampliada no miniboss 0
+PASS Mudança de fase aguarda abertura 0
+PASS Fase 2 inicia com aviso 0
+PASS Transição de fase não causa dano instantâneo 0
+PASS Transição devolve abertura 0
+PASS Antecipação sem quadro de impacto precoce 0
+PASS Corpo prepara o golpe 0
+PASS Fase 2 causa dano real 0
+PASS Ataque não persegue jogador durante aviso 0
+PASS Combo termina e permite contra-ataque 0
+PASS Janela de recuperação preservada 0
+PASS Pausa congela ataque de miniboss 0
+PASS Efeitos removidos junto com anexo 0
+PASS Vida ampliada no miniboss 1
+PASS Mudança de fase aguarda abertura 1
+PASS Fase 2 inicia com aviso 1
+PASS Transição de fase não causa dano instantâneo 1
+PASS Transição devolve abertura 1
+PASS Antecipação sem quadro de impacto precoce 1
+PASS Corpo prepara o golpe 1
+PASS Fase 2 causa dano real 1
+PASS Ataque não persegue jogador durante aviso 1
+PASS Raiz alterna para três espinhos na fase 2
+PASS Combo termina e permite contra-ataque 1
+PASS Janela de recuperação preservada 1
+PASS Pausa congela ataque de miniboss 1
+PASS Efeitos removidos junto com anexo 1
+PASS Vida ampliada no miniboss 2
+PASS Mudança de fase aguarda abertura 2
+PASS Fase 2 inicia com aviso 2
+PASS Transição de fase não causa dano instantâneo 2
+PASS Transição devolve abertura 2
+PASS Antecipação sem quadro de impacto precoce 2
+PASS Corpo prepara o golpe 2
+PASS Fase 2 causa dano real 2
+PASS Ataque não persegue jogador durante aviso 2
+PASS Condutor marca três áreas com intervalos
+PASS Combo termina e permite contra-ataque 2
+PASS Janela de recuperação preservada 2
+PASS Pausa congela ataque de miniboss 2
+PASS Efeitos removidos junto com anexo 2
+PASS Vida ampliada no miniboss 3
+PASS Mudança de fase aguarda abertura 3
+PASS Fase 2 inicia com aviso 3
+PASS Transição de fase não causa dano instantâneo 3
+PASS Transição devolve abertura 3
+PASS Antecipação sem quadro de impacto precoce 3
+PASS Corpo prepara o golpe 3
+PASS Fase 2 causa dano real 3
+PASS Vigia progride dentro da investida tripla
+PASS Ataque não persegue jogador durante aviso 3
+PASS Combo termina e permite contra-ataque 3
+PASS Janela de recuperação preservada 3
+PASS Pausa congela ataque de miniboss 3
+PASS Efeitos removidos junto com anexo 3
+PASS Alfa começa com 820 e barra cheia
+PASS Alfa anuncia fase 2
+PASS Alfa entra na fase 2
+PASS Alfa encerra transição de fase 2
+PASS Alfa anuncia fase 3
+PASS Alfa entra na fase 3
+PASS Alfa encerra transição de fase 3
+PASS Garras do Alfa avisam antes de acertar
+PASS Alfa recua e comprime antes da garra
+PASS Garra tem estado de impacto próprio
+PASS Dano e efeito da garra no mesmo impacto
+PASS Combo triplo do Alfa acaba em abertura
+PASS Centro do eco é seguro
+PASS Anel do eco aplica dano na faixa anunciada
+PASS Exterior do eco é seguro
+PASS Salto sai da preparação
+PASS Salto não cria dano no chão antes de pousar
+PASS Salto pousa e recupera
+PASS Pouso coincide com a marca e lança duas ondas
+PASS Fase 3 dispara cinco projéteis
+PASS Projétil não atravessa jogador em quadro lento
+PASS Invulnerabilidade do dash protege da rajada
+PASS Vitória limpa o combate e mantém encerramento narrativo
+RC3 BOSSES: 78 verificações, 0 falhas

@@ -1,0 +1,10 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS Garra pode ser evitada correndo após aviso
+PASS Ondas duplas permitem dois saltos reais
+PASS Há espaço para correr entre descargas marcadas
+PASS Primeira investida é evitável com pulo normal
+PASS Vigia sinaliza continuação da sequência
+PASS Salto do Alfa permite sair da marca usando movimento
+PASS Onda e eco permitem fugir andando sem dash
+DODGE RC3: 7 verificações, 0 falhas

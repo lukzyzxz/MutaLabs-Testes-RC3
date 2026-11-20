@@ -1,0 +1,6 @@
+4.7.2.stable.official.ed1daf0bf
+Fri Nov 20 18:14:12 UTC 2026
+Linux x86_64
+MemTotal:       10206472 kB
+73fbceaa3644eb761003db6a9b7ad346fd9879856ea6e84457bf03dc52a53635  ../buildref/MutaLabs_1.0_RC3_Chefes_e_Combate.zip
+model name	: AMD EPYC 9V74 80-Core Processor

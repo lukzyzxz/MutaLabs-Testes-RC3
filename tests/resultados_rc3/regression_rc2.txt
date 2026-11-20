@@ -1,0 +1,40 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Inicialização: 13 inimigos e um chefe
+PASS: Soco não aplica dano antes do quadro de impacto
+PASS: Quadro de impacto aplica um único dano de 35
+PASS: Parede bloqueia o soco
+PASS: Projétil acerta inimigo baixo sem atravessar sua colisão
+PASS: Recarga manual funciona com munição parcial
+PASS: Abate reduz a recarga em 1,5 segundo
+PASS: Recarga termina com três disparos
+PASS: Escudo não expira nem é substituído pelo catalisador
+PASS: Escudo absorve impacto e consome uma carga
+PASS: Segundo impacto esgota o escudo
+PASS: Kit coletado com vida cheia fica guardado
+PASS: Reserva cura e consome apenas uma carga
+PASS: Ácido continua causando dano após a invulnerabilidade inicial
+PASS: Posto reaparece em chão seguro: Entrada do Biojardim
+PASS: Posto reaparece em chão seguro: Nucleo do Reator
+PASS: Posto reaparece em chão seguro: Arquivo de Memorias
+PASS: Posto reaparece em chão seguro: Camara Zero
+PASS: Salvamento inicial válido
+PASS: Rejeita save incompatível { "sector": 9 }
+PASS: Rejeita save incompatível { "in_dungeon": true }
+PASS: Rejeita save incompatível { "medkits": -1 }
+PASS: Rejeita save incompatível { "memories": [] }
+PASS: Rejeita save incompatível { "spawn": [12080, 660] }
+PASS: Memória reaparece se não estava salva, mesmo já lida
+PASS: Sequência sem quadros cortados: attack
+PASS: Sequência sem quadros cortados: fall
+PASS: Sequência sem quadros cortados: idle
+PASS: Sequência sem quadros cortados: jump
+PASS: Sequência sem quadros cortados: run
+PASS: Sequência sem quadros cortados: shoot
+PASS: Sequência sem quadros cortados: walk
+PASS: Sequência sem quadros cortados: attack
+PASS: Sequência sem quadros cortados: fall
+PASS: Sequência sem quadros cortados: jump
+PASS: Sequência sem quadros cortados: run
+PASS: Sequência sem quadros cortados: walk
+REGRESSION: 37 verificações, 0 falhas

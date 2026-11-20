@@ -1,0 +1,24 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Aviso legível antes do dano: variante 0
+PASS Ataque aplica dano de verdade: variante 0
+PASS Ataque evitável sem sofrer dano: variante 0
+PASS Miniboss não prende fisicamente jogador 0
+PASS Miniboss permanece dentro do anexo 0
+PASS Aviso legível antes do dano: variante 1
+PASS Ataque aplica dano de verdade: variante 1
+PASS Ataque evitável sem sofrer dano: variante 1
+PASS Miniboss não prende fisicamente jogador 1
+PASS Miniboss permanece dentro do anexo 1
+PASS Aviso legível antes do dano: variante 2
+PASS Ataque aplica dano de verdade: variante 2
+PASS Ataque evitável sem sofrer dano: variante 2
+PASS Miniboss não prende fisicamente jogador 2
+PASS Miniboss permanece dentro do anexo 2
+PASS Aviso legível antes do dano: variante 3
+PASS Ataque aplica dano de verdade: variante 3
+PASS Ataque evitável sem sofrer dano: variante 3
+PASS Investida dupla termina em recuperação
+PASS Miniboss não prende fisicamente jogador 3
+PASS Miniboss permanece dentro do anexo 3
+MINIBOSS: 21 verificações, 0 falhas

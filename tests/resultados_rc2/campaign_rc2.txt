@@ -1,0 +1,107 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS Setor 0 iniciado em ordem
+PASS Monstros restritos ao setor 0
+PASS Porta bloqueia o dash no setor 0
+PASS Câmera e máscara escondem próximo setor 0
+PASS Coleta física cell_1450_500
+PASS Coleta física medkit_1980_610
+PASS Documento acessível setor 0
+PASS Objeto pessoal acessível photo
+PASS Itens sem abates não liberam setor 0
+PASS Tudo coletado + abates inicia cutscene 0
+PASS Cutscene 0 conserva segunda página
+PASS Cutscene leva ao anexo 0
+PASS Anexo 0 não ativa Alfa por coordenada
+PASS Anexo 0 salva ponto de retorno válido
+PASS Saída permanece trancada com miniboss 0 vivo
+PASS Morte exibe retorno no anexo 0
+PASS Retorno restaura luta e coletas 0
+PASS Miniboss 0 não recebe soco antes do impacto
+PASS Soco causa um impacto no miniboss 0
+PASS Seringa colide com miniboss 0
+PASS Vitória 0 persistida e saída liberada
+PASS E na saída avança para setor 1
+PASS Salvamento após transição 0 válido
+PASS Setor 1 iniciado em ordem
+PASS Monstros restritos ao setor 1
+PASS Porta bloqueia o dash no setor 1
+PASS Câmera e máscara escondem próximo setor 1
+PASS Coleta física cell_3420_335
+PASS Coleta física cell_4380_375
+PASS Coleta física medkit_3860_475
+PASS Coleta física overdrive_3030_450
+PASS Documento acessível setor 1
+PASS Objeto pessoal acessível recorder
+PASS Memória persistente LEMBRANCA // DIA 34
+PASS Itens sem abates não liberam setor 1
+PASS Tudo coletado + abates inicia cutscene 1
+PASS Cutscene 1 conserva segunda página
+PASS Cutscene leva ao anexo 1
+PASS Anexo 1 não ativa Alfa por coordenada
+PASS Anexo 1 salva ponto de retorno válido
+PASS Saída permanece trancada com miniboss 1 vivo
+PASS Morte exibe retorno no anexo 1
+PASS Retorno restaura luta e coletas 1
+PASS Miniboss 1 não recebe soco antes do impacto
+PASS Soco causa um impacto no miniboss 1
+PASS Seringa colide com miniboss 1
+PASS Vitória 1 persistida e saída liberada
+PASS E na saída avança para setor 2
+PASS Salvamento após transição 1 válido
+PASS Setor 2 iniciado em ordem
+PASS Monstros restritos ao setor 2
+PASS Porta bloqueia o dash no setor 2
+PASS Câmera e máscara escondem próximo setor 2
+PASS Coleta física medkit_6240_385
+PASS Coleta física catalyst_6070_435
+PASS Documento acessível setor 2
+PASS Memória persistente REFLEXO // AUTORIZACAO
+PASS Memória persistente ECO // PORTA PEDIATRICA
+PASS Itens sem abates não liberam setor 2
+PASS Tudo coletado + abates inicia cutscene 2
+PASS Cutscene 2 conserva segunda página
+PASS Cutscene leva ao anexo 2
+PASS Anexo 2 não ativa Alfa por coordenada
+PASS Anexo 2 salva ponto de retorno válido
+PASS Saída permanece trancada com miniboss 2 vivo
+PASS Morte exibe retorno no anexo 2
+PASS Retorno restaura luta e coletas 2
+PASS Miniboss 2 não recebe soco antes do impacto
+PASS Soco causa um impacto no miniboss 2
+PASS Seringa colide com miniboss 2
+PASS Vitória 2 persistida e saída liberada
+PASS Retorno após vitória não ressuscita miniboss
+PASS E na saída avança para setor 3
+PASS Salvamento após transição 2 válido
+PASS Setor 3 iniciado em ordem
+PASS Monstros restritos ao setor 3
+PASS Porta bloqueia o dash no setor 3
+PASS Câmera e máscara escondem próximo setor 3
+PASS Coleta física medkit_8010_450
+PASS Documento acessível setor 3
+PASS Objeto pessoal acessível drawing
+PASS Memória persistente DESPEDIDA // ELISA
+PASS Itens sem abates não liberam setor 3
+PASS Tudo coletado + abates inicia cutscene 3
+PASS Cutscene 3 conserva segunda página
+PASS Cutscene leva ao anexo 3
+PASS Anexo 3 não ativa Alfa por coordenada
+PASS Anexo 3 salva ponto de retorno válido
+PASS Saída permanece trancada com miniboss 3 vivo
+PASS Morte exibe retorno no anexo 3
+PASS Retorno restaura luta e coletas 3
+PASS Miniboss 3 não recebe soco antes do impacto
+PASS Soco causa um impacto no miniboss 3
+PASS Seringa colide com miniboss 3
+PASS Vitória 3 persistida e saída liberada
+PASS E na saída avança para setor 4
+PASS Salvamento após transição 3 válido
+PASS F conserva reserva com vida cheia
+PASS F consome um kit e cura 35
+PASS Alfa só ativa na Câmara Zero
+PASS Checkpoint do Alfa fica do lado correto da porta
+PASS Alfa derrotado ainda exige terminal
+PASS Terminal encerra protocolo e libera elevador
+PASS Elevador conclui campanha
+RESULT: 104 verificações, 0 falhas
